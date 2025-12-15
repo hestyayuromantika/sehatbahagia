@@ -1,0 +1,5 @@
+{
+  "name": "Hospital System Navigator",
+  "description": "An AI-powered multi-agent hospital system that routes patient queries to specialized sub-agents for medical records, billing, information, and appointments.",
+  "requestFramePermissions": []
+}
